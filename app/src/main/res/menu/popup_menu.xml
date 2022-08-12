@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/leaderboard"
+        android:icon="@drawable/ic_leaderboard"
+        android:title="Leaderboard" />
+    <item android:id="@+id/shop"
+        android:icon="@drawable/ic_shop"
+        android:title="Shop" />
+    <item android:id="@+id/storage"
+        android:icon="@drawable/ic_storage"
+        android:title="Storage" />
+    <item android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Storage" />
+</menu>
